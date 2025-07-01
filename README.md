@@ -39,6 +39,13 @@ O objetivo do site é fornecer informações claras, acessíveis e organizadas s
 
 ---
 
+## Design do Site
+
+- **Figma**: Modelos de baixa e alta fidelidade
+https://www.figma.com/design/b8jAS3wGBFGdOem42f0Fvz/Site-do-Conselho-Tutelar?node-id=0-1&t=mZskQb8838zOYybe-1
+
+---
+
 ## Tecnologias Utilizadas
 
 - **HTML5**: Estrutura semântica e acessível.
@@ -50,7 +57,7 @@ O objetivo do site é fornecer informações claras, acessíveis e organizadas s
 
 ## Observações
 
-- O site é um projeto acadêmico, sem fins lucrativos, e utiliza apenas recursos públicos e gratuitos.
+- O site é um projeto acadêmico, sem fins lucrativos.
 - Todas as informações e links foram selecionados para facilitar o acesso da população aos serviços de proteção à criança e ao adolescente em Fortaleza.
 
 ---
