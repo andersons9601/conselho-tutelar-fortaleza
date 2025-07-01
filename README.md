@@ -41,8 +41,7 @@ O objetivo do site é fornecer informações claras, acessíveis e organizadas s
 
 ## Design do Site
 
-- **Figma**: Modelos de baixa e alta fidelidade.
-https://www.figma.com/design/b8jAS3wGBFGdOem42f0Fvz/Site-do-Conselho-Tutelar?node-id=0-1&t=mZskQb8838zOYybe-1
+- **Figma**: Modelos de baixa e alta fidelidade: https://www.figma.com/design/b8jAS3wGBFGdOem42f0Fvz/Site-do-Conselho-Tutelar?node-id=0-1&t=mZskQb8838zOYybe-1
 
 ---
 
